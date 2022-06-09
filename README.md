@@ -1,1 +1,1 @@
-# SoftCoreProject
+# BookStoreProject
